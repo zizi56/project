@@ -1,4 +1,7 @@
 this is new added file in project repo and gonna push it.
-Creat a prod branch
+Create a prod branch
 
+using stash command
 next line after stash command.
+
+
